@@ -231,30 +231,13 @@ Children:
               Type: BaseDataVariableType
               DataType: ResourceUri
               Value: "ns=7;%PROJECTDIR%/images/icn_machine_state_washing.svg"
-          - Name: MediumPriority1
-            Type: ScaleLayout
-            WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel
+          - Name: Image3
+            Type: Image
             Children:
-            - Name: FillColor
+            - Name: Path
               Type: BaseDataVariableType
-              DataType: Color
-              Value: "#f51919"
-            - Name: Icon_border
-              Type: Image
-              Children:
-              - Name: Path
-                Type: BaseDataVariableType
-                DataType: ResourceUri
-                Value: "ns=7;%PROJECTDIR%/res/Alarm_Medium_Priority_Icon_border.svg"
-              - Name: DynamicColor
-                Type: BaseDataVariableType
-                DataType: Color
-                Value: "#f5e119"
-                Children:
-                - Name: DynamicLink
-                  Type: DynamicLink
-                  DataType: NodePath
-                  Value: "../../FillColor"
+              DataType: ResourceUri
+              Value: "ns=7;%PROJECTDIR%/images/icn_machine_state_warning.svg"
           - Name: AlarmBanner1
             Type: RowLayout
             WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel

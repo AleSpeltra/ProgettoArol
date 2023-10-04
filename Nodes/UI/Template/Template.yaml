@@ -151,110 +151,23 @@ Children:
           DataType: Size
           ModellingRule: Optional
           Value: 4.0
-      - Name: MediumPriority1
-        Type: ScaleLayout
-        WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel
+      - Name: Image3
+        Type: Image
         Children:
-        - Name: FillColor
+        - Name: Path
           Type: BaseDataVariableType
-          DataType: Color
-          Value: "#f51919"
+          DataType: ResourceUri
+          Value: "ns=7;%PROJECTDIR%/images/icn_machine_state_warning.svg"
         - Name: Width
           Type: BaseVariableType
           DataType: Size
           ModellingRule: Optional
-          Value: 90.0
+          Value: 120.0
         - Name: Height
           Type: BaseVariableType
           DataType: Size
           ModellingRule: Optional
-          Value: 12.244000434875488
-        - Name: Icon_border
-          Type: Image
-          Children:
-          - Name: Path
-            Type: BaseDataVariableType
-            DataType: ResourceUri
-            Value: "ns=7;%PROJECTDIR%/res/Alarm_Medium_Priority_Icon_border.svg"
-          - Name: DynamicColor
-            Type: BaseDataVariableType
-            DataType: Color
-            Value: "#f5e119"
-            Children:
-            - Name: DynamicLink
-              Type: DynamicLink
-              DataType: NodePath
-              Value: "../../FillColor"
-          - Name: Width
-            Type: BaseVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 490.0
-          - Name: Height
-            Type: BaseVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 196.0
-          - Name: HorizontalAlignment
-            Type: BaseVariableType
-            DataType: HorizontalAlignment
-            ModellingRule: Optional
-            Value: 3
-          - Name: VerticalAlignment
-            Type: BaseVariableType
-            DataType: VerticalAlignment
-            ModellingRule: Optional
-            Value: 3
-          - Name: ImageLeftMargin
-            Type: BaseDataVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 0.0
-          - Name: ImageTopMargin
-            Type: BaseDataVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 0.0
-          - Name: ImageRightMargin
-            Type: BaseDataVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 0.0
-          - Name: ImageBottomMargin
-            Type: BaseDataVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 0.0
-          - Name: LeftMargin
-            Type: BaseVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 4.0
-          - Name: TopMargin
-            Type: BaseVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 4.0
-          - Name: RightMargin
-            Type: BaseVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 4.0
-          - Name: BottomMargin
-            Type: BaseVariableType
-            DataType: Size
-            ModellingRule: Optional
-            Value: 4.0
-        - Name: OriginalWidth
-          Type: BaseDataVariableType
-          DataType: Size
-          ModellingRule: Optional
-          Value: 14.0
-        - Name: OriginalHeight
-          Type: BaseDataVariableType
-          DataType: Size
-          ModellingRule: Optional
-          Value: 12.244000434875488
+          Value: 50.0
         - Name: VerticalAlignment
           Type: BaseVariableType
           DataType: VerticalAlignment
@@ -264,7 +177,22 @@ Children:
           Type: BaseVariableType
           DataType: Size
           ModellingRule: Optional
-          Value: 0.0
+          Value: 4.0
+        - Name: TopMargin
+          Type: BaseVariableType
+          DataType: Size
+          ModellingRule: Optional
+          Value: 4.0
+        - Name: RightMargin
+          Type: BaseVariableType
+          DataType: Size
+          ModellingRule: Optional
+          Value: 4.0
+        - Name: BottomMargin
+          Type: BaseVariableType
+          DataType: Size
+          ModellingRule: Optional
+          Value: 4.0
       - Name: AlarmBanner1
         Type: RowLayout
         WriteMask: BrowseName|DataType|Description|DisplayName|MinimumSamplingInterval|UserAccessLevel
