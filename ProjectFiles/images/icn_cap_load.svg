@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/20x20/icn_cap_load</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,12 L7,12 C4.790861,12 3,13.790861 3,16 L3,19 C3,19.5522847 3.44771525,20 4,20 L16,20 C16.5522847,20 17,19.5522847 17,19 L17,16 C17,13.790861 15.209139,12 13,12 Z M5,16 C5,14.8954305 5.8954305,14 7,14 L13,14 C14.1045695,14 15,14.8954305 15,16 L15,18 L5,18 L5,16 Z M5.29,5.71 C4.90227641,5.31996255 4.90227641,4.69003745 5.29,4.3 L9.29,0.3 C9.68003745,-0.0877235947 10.3099625,-0.0877235947 10.7,0.3 L14.7,4.3 C14.9853762,4.54438988 15.1096819,4.9281184 15.0218101,5.29341897 C14.9339383,5.65871955 14.6487195,5.94393833 14.283419,6.03181013 C13.9181184,6.11968194 13.5343899,5.99537616 13.29,5.71 L11,3.41 L11,9 C11,9.55228475 10.5522847,10 10,10 C9.44771525,10 9,9.55228475 9,9 L9,3.41 L6.71,5.71 C6.5222334,5.89931265 6.26663754,6.00579832 6,6.00579832 C5.73336246,6.00579832 5.4777666,5.89931265 5.29,5.71 Z" id="path-1" fill="#888F9B"></path>
+    </defs>
+    <g id="Icon/20x20/icn_cap_load" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="icn_cap_load" fill-rule="nonzero"></g>
+        <g id="Color/Fill/Mid_Dark" mask="url(#mask-2)" fill="none">
+            <rect id="Rectangle" x="0" y="0" width="0" height="0"></rect>
+        </g>
+    </g>
+</svg>

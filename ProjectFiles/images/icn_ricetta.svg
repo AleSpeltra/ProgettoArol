@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/20x20/icn_ricetta</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.91,18.59 L14,9.79 L14,2 C14.5522847,2 15,1.55228475 15,1 C15,0.44771525 14.5522847,3.38176876e-17 14,0 L6,0 C5.44771525,-3.38176876e-17 5,0.44771525 5,1 C5,1.55228475 5.44771525,2 6,2 L6,9.79 L2.09,18.59 C1.95105502,18.8990949 1.97810897,19.2575277 2.16187548,19.5422648 C2.34564198,19.8270019 2.66111233,19.9992936 3,20 L17,20 C17.3388877,19.9992936 17.654358,19.8270019 17.8381245,19.5422648 C18.021891,19.2575277 18.048945,18.8990949 17.91,18.59 Z M12,2 L12,5 L8,5 L8,2 L12,2 Z M7.91,10.41 C7.9686689,10.2812398 7.99934462,10.1414949 8,10 L8,6 L12,6 L12,10 C12.0006554,10.1414949 12.0313311,10.2812398 12.09,10.41 L15.46,18 L4.54,18 L7.91,10.41 Z" id="path-1" fill="#FF9F00"></path>
+    </defs>
+    <g id="Icon/20x20/icn_ricetta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="icn_ricetta" fill-rule="nonzero"></g>
+        <g id="Color/Fill/Mid_Dark" mask="url(#mask-2)" fill="none">
+            <rect id="Rectangle" x="0" y="0" width="0" height="0"></rect>
+        </g>
+    </g>
+</svg>

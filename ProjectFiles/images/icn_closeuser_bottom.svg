@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_status_Allarm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="A.1.0-Dashboard---One-Card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1297.000000, -225.000000)">
+        <g id="---Control-status" transform="translate(920.000000, 193.000000)">
+            <g id="Icon/20x20/Status/Allarm" transform="translate(377.000000, 32.000000)">
+                <rect id="Rectangle-7" fill="#888F9B" x="0" y="0" width="20" height="20" rx="10"></rect>
+                <path d="M11.8122113,9.99896006 L13.6249025,8.18786873 C14.1250325,7.68869868 14.1250325,6.87594744 13.6249025,6.37677739 C13.1241326,5.87440754 12.3126612,5.87440754 11.8122113,6.37677739 L9.99984001,8.18786873 L8.18746875,6.37677739 C7.68733876,5.87440754 6.87586745,5.87440754 6.37509749,6.37677739 C5.8749675,6.87594744 5.8749675,7.68869868 6.37509749,8.18786873 L8.18746875,9.99896006 L6.37509749,11.8132512 C5.8749675,12.3124213 5.8749675,13.1251725 6.37509749,13.6243425 C6.87586745,14.1267124 7.68733876,14.1267124 8.18746875,13.6243425 L9.99984001,11.8132512 L11.8122113,13.6243425 C12.3126612,14.1267124 13.1241326,14.1267124 13.6249025,13.6243425 C14.1250325,13.1251725 14.1250325,12.3124213 13.6249025,11.8132512 L11.8122113,9.99896006" id="cross" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

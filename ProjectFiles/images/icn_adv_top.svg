@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="C.1.0-Monitoraggio-Attività" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-90.000000, -703.000000)">
+        <g id="//-Bottom-bar" transform="translate(0.000000, 678.000000)">
+            <g id="Icon/40x40/Dashboard" transform="translate(90.000000, 25.000000)">
+                <g id="Oval">
+                    <circle stroke="#FFFFFF" stroke-width="2" cx="20" cy="20" r="19"></circle>
+                    <circle fill="#FFFFFF" cx="13" cy="20" r="2"></circle>
+                    <circle fill="#FFFFFF" cx="20" cy="20" r="2"></circle>
+                    <circle fill="#FFFFFF" cx="27" cy="20" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

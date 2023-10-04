@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="154px" xml:space="preserve" height="176.96px" viewBox="0 0 154 176.965" baseProfile="tiny" version="1.2" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke="#000" stroke-width="2" fill="#808080" transform="translate(-15.5,-13)">
+	<rect height="40" width="26.129" y="144" x="25.065"/>
+	<rect height="10" width="30.484" y="179" x="22.888"/>
+</g>
+<g stroke="#000" stroke-width="2" fill="#808080" transform="translate(-15.5,-13)">
+	<rect height="40" width="26.129" y="130.67" x="57.844"/>
+	<rect height="10" width="30.484" y="165.67" x="55.667"/>
+</g>
+<g stroke="#000" stroke-width="2" fill="#808080" transform="translate(-15.5,-13)">
+	<rect height="40" width="26.129" y="130.67" x="100.03"/>
+	<rect height="10" width="30.484" y="165.67" x="97.85"/>
+</g>
+<g stroke="#000" stroke-width="2" fill="#808080" transform="translate(-15.5,-13)">
+	<rect height="40" width="26.129" y="144" x="132.36"/>
+	<rect height="10" width="30.483" y="179" x="130.18"/>
+</g>
+<path d="m141.83 6.833s10.167 4.552 10.167 10.167v106.67c0 5.615-10.167 10.166-10.167 10.166h-129s-10.833-4.551-10.833-10.166v-106.67c0.003-5.615 10.17-10.167 10.17-10.167h129.66z" stroke="#000" stroke-width="4" fill="#C0C0C0"/>
+<rect x="36.5" height="6" width="86"/>
+<path d="m141.31 8.738l3.914 1.884v119.07l-3.479 2.029h-6.131v-122.98h5.7z" fill="#808080"/>
+<path d="m150.83 15.85v108.77l-5.666 8v-123.88l5.67 7.11z"/>
+<path d="m129.31 9.072l0.103 122.32h-10.798v-122.32h10.7z" fill="#fff"/>
+<path d="m16.339 8.823l0.059 122.78c-3.365 0.701-6.098-0.752-12.544-6.33l0.192-107.95c-0.726-3.293 7.964-10.11 12.293-8.497z" fill="#808080"/>
+</svg>

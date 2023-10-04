@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_action_Refresh</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="B-1.0-Espulsori" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-724.000000, -692.000000)">
+        <g id="---actions" transform="translate(441.000000, 692.000000)">
+            <g id="Stacked-Group">
+                <g id="Action/component/bottom_bar" transform="translate(252.000000, 0.000000)">
+                    <g id="Icon/44x44/Action/Clock" transform="translate(31.000000, 0.000000)">
+                        <circle id="Oval" fill="url(#linearGradient-1)" cx="22" cy="22" r="22"></circle>
+                        <path d="M29.0175439,14.9239766 L31.9415205,12 L31.9415205,20.7719298 L23.1695906,20.7719298 L27.2046784,16.7368421 C25.7231906,15.2553544 23.9688196,14.5146199 21.9415205,14.5146199 C19.8752337,14.5146199 18.1111167,15.2456084 16.6491247,16.7076005 C15.187127,18.1695963 14.4561404,19.9337132 14.4561404,22 C14.4561404,24.0662868 15.187127,25.8304037 16.6491247,27.2923995 C18.1111167,28.7543935 19.8752337,29.4853801 21.9415205,29.4853801 C23.5789549,29.4853801 25.0409282,29.0272951 26.3274854,28.111113 C27.6140426,27.1949287 28.51072,25.9961076 29.0175439,24.5146199 L31.5906433,24.5146199 C31.0448318,26.6978657 29.8752524,28.491221 28.0818713,29.8947368 C26.2884903,31.2982527 24.2417254,32 21.9415205,32 C19.2124632,32 16.8733043,31.0253507 14.9239766,29.0760234 C12.9746493,27.1266957 12,24.7680449 12,22 C12,19.2319551 12.9746493,16.8733043 14.9239766,14.9239766 C16.8733043,12.9746489 19.2124632,12 21.9415205,12 C24.7095654,12 27.0682161,12.9746489 29.0175439,14.9239766 Z" id="Page-1" fill="#545F71"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

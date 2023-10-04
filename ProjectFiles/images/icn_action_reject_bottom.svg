@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_action_Reject</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#888F9B" offset="0%"></stop>
+            <stop stop-color="#888F9B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="A.1.0-Dashboard---One-Card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-850.000000, -692.000000)">
+        <g id="---actions" transform="translate(441.000000, 692.000000)">
+            <g id="Stacked-Group">
+                <g id="Action/component/bottom_bar" transform="translate(378.000000, 0.000000)">
+                    <g id="Icon/44x44/Action/Clock" transform="translate(31.000000, 0.000000)">
+                        <circle id="Oval" fill="url(#linearGradient-1)" cx="22" cy="22" r="22"></circle>
+                        <path d="M14.8199559,24.4998047 L12,24.4998047 L12,12 L32,12 L32,24.4998047 L29.0391088,24.4998047 M14.1959032,31.9450634 L22.0001562,24.1408103 L29.8037843,31.9450634 L14.1959032,31.9450634 Z" id="Air-Play" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.000000, 21.972532) rotate(90.000000) translate(-22.000000, -21.972532) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

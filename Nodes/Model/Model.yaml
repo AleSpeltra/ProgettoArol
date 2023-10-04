@@ -1,0 +1,8 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: VersioneHMI
+  Id: g=bd9e9c72cc062c69fee3d8ce3632481b
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "AROL HMI 1.0.0"

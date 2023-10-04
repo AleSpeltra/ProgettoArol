@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/20x20/icn_copia_ricetta</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.71,9.29 L16.71,6.29 C16.5212812,6.10281349 16.265803,5.99846324 16,6 L12,6 L12,4 C12.0015368,3.73419702 11.8971865,3.47871883 11.71,3.29 L8.71,0.29 C8.52128117,0.102813486 8.26580298,-0.0015367588 8,-2.77559144e-16 L1,-2.77559144e-16 C0.44771525,-3.11376088e-16 6.76353751e-17,0.44771525 0,1 L0,13 C6.76353751e-17,13.5522847 0.44771525,14 1,14 L8,14 L8,12 L2,12 L2,2 L6,2 L6,5 C6,5.55228475 6.44771525,6 7,6 L9,6 C8.44771525,6 8,6.44771525 8,7 L8,19 C8,19.5522847 8.44771525,20 9,20 L19,20 C19.5522847,20 20,19.5522847 20,19 L20,10 C20.0015368,9.73419702 19.8971865,9.47871883 19.71,9.29 Z M17.59,10 L16,10 L16,8.41 L17.59,10 Z M8,4 L8,2.41 L9.59,4 L8,4 Z M10,8 L14,8 L14,11 C14,11.5522847 14.4477153,12 15,12 L18,12 L18,18 L10,18 L10,8 Z" id="path-1" fill="#FF9F00"></path>
+    </defs>
+    <g id="Icon/20x20/icn_copia_ricetta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="icn_copia_ricetta" fill-rule="nonzero"></g>
+        <g id="Color/Fill/Mid_Dark" mask="url(#mask-2)" fill="none">
+            <rect id="Rectangle" x="0" y="0" width="0" height="0"></rect>
+        </g>
+    </g>
+</svg>

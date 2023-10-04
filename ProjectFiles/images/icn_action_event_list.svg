@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_action_Event_list</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="B.1.1-Alarmi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-724.000000, -692.000000)">
+        <g id="---actions" transform="translate(441.000000, 692.000000)">
+            <g id="Stacked-Group">
+                <g id="Action/component/bottom_bar" transform="translate(252.000000, 0.000000)">
+                    <g id="Icon/44x44/Action/Clock" transform="translate(31.000000, 0.000000)">
+                        <circle id="Oval" fill="url(#linearGradient-1)" cx="22" cy="22" r="22"></circle>
+                        <path d="M14,30 L30,30 L30,22 L14,22 L14,30 Z M12,32 L32,32 L32,20 L12,20 L12,32 Z M17,26 L27,26 L27,24 L17,24 L17,26 Z M14,18 L30,18 L30,16 L14,16 L14,18 Z M16,14 L28,14 L28,12 L16,12 L16,14 Z" id="database_system-[#1800]" fill="#545F71"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

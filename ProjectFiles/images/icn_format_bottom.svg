@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_recepit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="A.1.0-Dashboard---One-Card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-483.000000, -190.000000)" stroke-linecap="round" stroke-linejoin="round">
+        <g id="---Receipt" transform="translate(483.000000, 190.000000)" stroke="#EE8800" stroke-width="2">
+            <g id="Icon/20x20/recepit">
+                <g id="icn_receipt" transform="translate(1.000000, 1.000000)">
+                    <path d="M17.6923077,2.88521635 C17.6923077,4.47896635 13.7319952,5.77073317 8.84615385,5.77073317 C3.96058894,5.77073317 0,4.47896635 0,2.88521635 C0,1.29176683 3.96058894,0 8.84615385,0 C13.7319952,0 17.6923077,1.29176683 17.6923077,2.88521635 Z" id="Stroke-1444"></path>
+                    <path d="M17.6923077,2.84615385 L17.6923077,14.6096755 C17.6923077,16.2028245 13.7319952,17.4948918 8.84615385,17.4948918 C3.96058894,17.4948918 0,16.2028245 0,14.6096755 L0,2.84615385" id="Stroke-1446"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

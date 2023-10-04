@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_topbar_Allarms</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#87919B" offset="0%"></stop>
+            <stop stop-color="#87919B" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="22" cy="22" r="22"></circle>
+    </defs>
+    <g id="A.1.0-Dashboard---One-Card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1186.000000, -14.000000)">
+        <g id="//-Top-bar">
+            <g id="---secondary-nav" transform="translate(1049.000000, 14.000000)">
+                <g id="Stacked-Group">
+                    <g id="Action/component/topbar" transform="translate(106.000000, 0.000000)">
+                        <g id="Icon/44x44/Action_topbar/Settings" transform="translate(31.000000, 0.000000)">
+                            <g id="Oval">
+                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                <circle stroke="#E1E3E6" stroke-width="2" cx="22" cy="22" r="21"></circle>
+                            </g>
+                            <path d="M22,27.5216469 L22,27.5614297 M34,32 L22,11 L10,32 L34,32 Z M22,19.2271407 L22,24.5000631" id="Error" stroke="#545F71" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
